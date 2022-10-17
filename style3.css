@@ -1,4 +1,5 @@
 body {
+    /* degradé du glycine au bleu */
     background: linear-gradient(#CDB8FA, #573EEF);
     overflow-x: hidden;
 }

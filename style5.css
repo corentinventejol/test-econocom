@@ -1,6 +1,6 @@
 body {
-    /* degradé du violet au glycine */
-    background: linear-gradient(#8727DB, #CDB8FA);
+    /* degradé du saumon au jaune */
+    background: linear-gradient( #FF997F, #F9D957);
     overflow-x: hidden;
 }
 .alerte {
@@ -10,13 +10,12 @@ body {
     border: 3px solid #3E0D81;
     margin-bottom: 1%;
     background-color: white;
-    box-shadow: 2px 2px 25px 2px gray;
+    box-shadow: 2px 2px 10px 4px gray;
 }
 .colonne {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: space-around;
-    margin-bottom: 1rem;
 }
 .colonne_1 {
     display: flex;
@@ -26,7 +25,7 @@ body {
     width: 75%;
     height: auto;
     background-color: white;
-    box-shadow: 2px 2px 25px 2px gray;
+    box-shadow: 2px 2px 10px 4px gray;
 }
 .colonne_1 h2 {
     display: flex;
@@ -44,7 +43,7 @@ body {
     width: 20%;
     height: auto;
     background-color: white;
-    box-shadow: 2px 2px 25px 2px gray;
+    box-shadow: 2px 2px 10px 4px gray;
 }
 .colonne_2 h2 {
     display: flex;
@@ -61,7 +60,7 @@ body {
     border: 3px solid #3E0D81;
     margin-top: 1%;
     background-color: white;
-    box-shadow: 2px 2px 25px 2px gray;
+    box-shadow: 2px 2px 10px 4px gray;
     margin-bottom: 2rem;
 }
 .blabla:hover {

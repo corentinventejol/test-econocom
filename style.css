@@ -1,5 +1,5 @@
 body {
-    /* background-color: rgb(237, 236, 236); */
+    /* degradé du turquoise au glycine */
     background: linear-gradient(to top left, #99E5E8, #CDB8FA);
     overflow-x: hidden;
 }

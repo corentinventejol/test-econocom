@@ -1,6 +1,6 @@
 body {
+    /* derivé de glycine qui tire vers le gris  */
     background-color: #cac2cd;
-    /* background: linear-gradient(to top left, #99E5E8, #CDB8FA); */
     overflow-x: hidden;
 }
 .alerte {
